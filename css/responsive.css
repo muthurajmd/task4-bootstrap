@@ -1,0 +1,38 @@
+@media(max-width:576px){
+.img1 img{
+	width:45%!important;
+}
+.img2 img{
+	width:49%!important;
+}
+.bi.bi-google{
+	top:319px!important;
+	left:375px!important;
+}
+.font-size{
+	font-size:35px!important;
+}
+.margin{
+	margin-top:50px!important;
+}
+.bi.bi-tiktok{
+	top:190px!important;
+	left:417px!important;
+}
+.dot-2::after {
+    content: "";
+    border: none;
+    border-top: 2px dashed blue;
+    width: 219px!important;
+    height: 25px;
+    position: absolute;
+    left: -223px!important;
+    top: 32px;
+}
+.margin-head{
+	margin:0px 0px!important;
+}
+}
+@media(min-width:768px) and (max-width:991px){
+
+}
